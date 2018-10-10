@@ -11,17 +11,16 @@
 //** 01Feb2016
 
 ///////////////////////////////////////////////////
-// This program  //
-//  will create files with rooms that connect  //
-//  to other rooms. Since the name requirement //
-//  did not specifiy, this program names the   //
-//  room as a number. In other words, Room 1,   //
-//  Room 2, etc. The program will then read    //
-//  these randomly generated rooms from the    //
-//  files and ask the user to navigate from   //
-//  the starting room to the end room.        //
-/////////////////////////////////////////////////
-//
+// This program                                  //
+//  will create files with rooms that connect    //
+//  to other rooms. This program names the       //
+//  room as a number. In other words, Room 1,    //
+//  Room 2, etc. The program will then read      //
+//  these randomly generated rooms from the      //
+//  files and ask the user to navigate from      //
+//  the starting room to the end room.           //
+///////////////////////////////////////////////////
+
 #define MAX 7
 #define CHARMAX 48
 
